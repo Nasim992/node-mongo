@@ -30,8 +30,9 @@
 ##### Postman for sending request as POST or GET 
 ```javascript
 * After sign in(using google sign in ) in the web interface of postman.
-[Postman](https://nasim92.postman.co/build/workspace/My-Workspace~d3893db8-591d-457a-892b-8e6cb61ce68d)
+
 ```
+[Postman](https://nasim92.postman.co/build/workspace/My-Workspace~d3893db8-591d-457a-892b-8e6cb61ce68d)
 
 ##### To install cors 
 ```javascript
