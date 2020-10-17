@@ -33,5 +33,6 @@ app.listen(3000,()=> {
 
 
 app.post('/adduser',(req,res)=> {
-    console.log(req.body);
+    // save to database 
+    res.send(req.body)
 })
